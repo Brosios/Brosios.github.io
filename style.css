@@ -31,6 +31,11 @@ h2 {
 	font-weight: lighter;
 	padding: 10px 0 10px 0;
 }
+.two p {
+	text-align:justify;
+	padding-left: 168px;
+	padding-right: 168px;
+}
 .pic {
 	height: 300px; 
 	width: 300px; 
