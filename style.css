@@ -1,0 +1,46 @@
+html {
+    background: #020202;
+	color:#FAFAFA;
+	text-align: center;
+	justify-content: center;
+	/* padding: 80px 50px 50px 50px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+	font-variant-caps: all-small-caps
+	font-size: 30px;
+}
+.intro {
+	font-size: 30px;
+	font-weight: lighter;
+	padding: 10px 0 10px 0;
+}
+.pic {
+	height: 300px; 
+	width: 300px; 
+	object-fit: cover; 
+	padding-right: -300px; 
+	border-radius: 50%;
+}
+.icons a {
+	color: rgb(92, 89, 139);
+}
+i {
+	font-size: 50px;
+	margin: 10px;
+}
+i:hover {
+	color: #070707;
+}
+
+a {
+	color: rgb(92, 89, 139);
+}
+a:hover{
+	color: #f0390b;
+
+}
+.footer {
+    margin-top: 100px;
+}
+ 
